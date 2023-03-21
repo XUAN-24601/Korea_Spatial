@@ -1,2 +1,2 @@
 # Korea_Spatial
-Spatial data of korea
+Easy to use Spatial data of korea
